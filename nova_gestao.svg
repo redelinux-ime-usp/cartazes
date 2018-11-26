@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="nova_gestao.svg">
+   sodipodi:docname="nova_gestao.svg"
+   inkscape:export-filename="/home/guilherme/Work/cartazes/nova_gestao.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39124906"
-     inkscape:cx="330.74754"
-     inkscape:cy="569.74023"
+     inkscape:zoom="0.88290128"
+     inkscape:cx="347.28667"
+     inkscape:cy="501.87856"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,7 +39,7 @@
      inkscape:window-x="0"
      inkscape:window-y="37"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -60,6 +63,13 @@
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31926665"
+       id="rect43"
+       width="210.06905"
+       height="224.75905"
+       x="-0.23699495"
+       y="0.74172604" />
     <path
        style="fill:#112982;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -0.19967021,221.43764 v 77.27969 L 210.17279,297.85865 V 159.6139 c 0,0 -67.83439,60.96508 -210.37246021,61.82374 z"
@@ -97,12 +107,12 @@
          sodipodi:role="line"
          x="107.80386"
          y="29.740503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1722229px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4547">está na hora de escolher os novos </tspan><tspan
          sodipodi:role="line"
          x="106.6656"
          y="42.969669"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1722229px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
          id="tspan227">administradores para a gestão 2019/20 da</tspan></text>
     <text
        xml:space="preserve"
@@ -119,7 +129,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#112982;fill-opacity:1;stroke-width:0.26458332">rede linux</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#112982;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
        x="105.35155"
        y="105.80501"
        id="text4555"
@@ -129,16 +139,16 @@
          id="tspan4553"
          x="106.48981"
          y="105.80501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332">uma oportunidade para aprender a </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332">uma oportunidade para aprender a </tspan><tspan
          sodipodi:role="line"
          x="106.48981"
          y="119.03417"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4557">gerenciar uma rede grande de computadores </tspan><tspan
          sodipodi:role="line"
          x="105.35155"
          y="132.26334"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#112982;fill-opacity:1;stroke-width:0.26458332"
          id="tspan4559">e ainda ganhar uma bolsa</tspan></text>
     <text
        xml:space="preserve"
@@ -233,13 +243,13 @@
          id="tspan241"
          x="18.554708"
          y="153.63437"
-         style="fill:#112982;stroke-width:0.26458332;text-anchor:middle;text-align:center">todos os alunos da graduação podem </tspan><tspan
+         style="fill:#112982;stroke-width:0.26458332;text-anchor:middle;text-align:center;font-size:9.17222222px">todos os alunos da graduação podem </tspan><tspan
          sodipodi:role="line"
          x="18.554708"
          y="166.86354"
-         style="fill:#112982;stroke-width:0.26458332;font-size:9.87777778px"
+         style="fill:#112982;stroke-width:0.26458332;font-size:9.17222222px"
          id="tspan245"><tspan
-   style="text-anchor:middle;text-align:center;fill:#112982;font-size:9.87777778px"
+   style="text-anchor:middle;text-align:center;fill:#112982;font-size:9.17222222px"
    id="tspan247">se inscrever para o processo seletiv</tspan>o</tspan></text>
   </g>
 </svg>
